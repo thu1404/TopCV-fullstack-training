@@ -1,0 +1,17 @@
+
+
+.red{
+    width: 600px;
+    height: 500px;
+    background-color: red;
+    font-size: 100px;
+    float: left;
+}
+
+.blue{
+    width: 500px;
+    height: 600px;
+    background-color: blue; 
+    /* position: absolute; */
+    display: flex;
+}
